@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" >
-    A application where you can be the hero and save the world helping some NGOs to getting funds for their cause
+    An application where you can be the hero and save the world, but not by the conventional way, but by helping some NGOs to raise funds for their causes
 </h3>
 
 <p align="center">
