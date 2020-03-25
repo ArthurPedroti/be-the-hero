@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" >
-  A simple and beautiful recipes website
+  A application where you can be the hero and save the world helping some NGOs to getting funds for their cause
 </h3>
 
 <p align="center">

@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" >
-  A simple and beautiful recipes website
+    A application where you can be the hero and save the world helping some NGOs to getting funds for their cause
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
    <a href="https://github.com/ArthurPedroti/be-the-hero/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/ArthurPedroti/be-the-hero">
   </a>
-  <img alt="License" src="https://img.shields.io/github/license/ArthurPedroti/be-the-hero">
+  <img alt="License" src="https://img.shields.io/github/license/ArthurPedroti/be-the-hero/tree/master/backend">
 </p>
 <p align="center">
 
@@ -51,14 +51,14 @@
 
 ## :books: Technologies
 
-* **cors**: ^2.8.5
-* **express**: ^4.17.1
-* **knex**: ^0.20.13
-* **sqlite3**: ^4.1.1
+- **cors**: ^2.8.5
+- **express**: ^4.17.1
+- **knex**: ^0.20.13
+- **sqlite3**: ^4.1.1
 
 **devDependencies**
 
-* **nodemon**: ^2.0.2
+- **nodemon**: ^2.0.2
 
 ## :memo: License
 
@@ -67,5 +67,3 @@ This project is under MIT. See at here [LICENSE](/LICENSE) for more informations
 ---
 
 Made by :blue_heart: by [Arthur Pedroti](https://github.com/ArthurPedroti)
-
-
