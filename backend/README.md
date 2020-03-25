@@ -47,8 +47,6 @@
 
 ## :computer: Languages
 
-- **HTML**
-- **CSS**
 - **Javascript**
 
 ## :books: Technologies
