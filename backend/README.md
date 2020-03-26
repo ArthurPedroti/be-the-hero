@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Be the Hero" src="../readme-logo.PNG"  width="400px" style="border-radius:16px;"/>
+    <img alt="Be the Hero" src="../readme-logo.PNG"  width="800px" style="border-radius:16px;"/>
 </h1>
 
 <h1 align="center">
