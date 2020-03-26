@@ -1,4 +1,8 @@
 <h1 align="center">
+    <img alt="Be the Hero" src="../readme-logo.PNG"  width="400px" style="border-radius:16px;"/>
+</h1>
+
+<h1 align="center">
   Be the Hero
 </h1>
 
