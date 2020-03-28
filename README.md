@@ -16,7 +16,6 @@
    <a href="https://github.com/ArthurPedroti/be-the-hero/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/ArthurPedroti/be-the-hero">
   </a>
-  <img alt="License" src="https://img.shields.io/github/license/ArthurPedroti/be-the-hero">
 </p>
 <p align="center">
 
@@ -54,8 +53,8 @@
 ## :books: Technologies
 
 * <a href="https://github.com/ArthurPedroti/be-the-hero/tree/master/backend"> **Backend: Node.js** </a>
-* **Frontend: React.js**
-* **Mobile: React Native**
+* <a href="https://github.com/ArthurPedroti/be-the-hero/tree/master/frontend"> **Frontend: React.js** </a>
+* <a href="https://github.com/ArthurPedroti/be-the-hero/tree/master/mobile"> **Mobile: React Native** </a>
 
 
 ## :memo: License
@@ -64,4 +63,5 @@ This project is under MIT. See at here [LICENSE](/LICENSE) for more informations
 
 ---
 
+Project developed on SemanaOmnistack 11.0 - RocketSeat
 Made by :blue_heart: by [Arthur Pedroti](https://github.com/ArthurPedroti)
