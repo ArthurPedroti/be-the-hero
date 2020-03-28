@@ -64,4 +64,5 @@ This project is under MIT. See at here [LICENSE](/LICENSE) for more informations
 ---
 
 <p> Project developed on SemanaOmnistack 11.0 - RocketSeat </p>
+
 Made by :blue_heart: by [Arthur Pedroti](https://github.com/ArthurPedroti)
