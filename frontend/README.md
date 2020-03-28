@@ -16,7 +16,6 @@
    <a href="https://github.com/ArthurPedroti/be-the-hero/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/ArthurPedroti/be-the-hero">
   </a>
-  <img alt="License" src="https://img.shields.io/github/license/ArthurPedroti/be-the-hero">
 </p>
 <p align="center">
 
