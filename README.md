@@ -7,17 +7,6 @@
 </h3>
 
 <p align="center">
-  <img alt="Languagues" src="https://img.shields.io/github/languages/count/ArthurPedroti/be-the-hero">
-  <img alt="Top Languague" src="https://img.shields.io/github/languages/top/ArthurPedroti/be-the-hero">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ArthurPedroti/be-the-hero">
-  <a href="https://github.com/ArthurPedroti/be-the-hero/commits/master">
-    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/ArthurPedroti/be-the-hero">
-  </a>
-   <a href="https://github.com/ArthurPedroti/be-the-hero/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/ArthurPedroti/be-the-hero">
-  </a>
-</p>
-<p align="center">
 
   <a href="https://github.com/ArthurPedroti" target="_blank">
     <img alt="Made by Arthur Pedroti" src="https://img.shields.io/badge/made%20by-Arthur_Pedroti-informational">
